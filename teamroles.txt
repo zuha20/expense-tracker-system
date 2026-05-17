@@ -1,0 +1,9 @@
+Zuhanoor
+- Create repository
+- Manage GitHub Projects
+- Create issues/tasks
+
+Nimra Kifayat
+- Create documentation
+- Design diagrams
+- Upload files

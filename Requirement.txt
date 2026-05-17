@@ -1,0 +1,9 @@
+Functional Requirements
+- User can add expenses
+- User can view reports
+- User can manage categories
+
+Non Functional Requirements
+- Easy to use
+- Fast performance
+- Secure data
