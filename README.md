@@ -9,5 +9,4 @@ Library Management System, Attendance System, Expense Tracker, Food Ordering Sys
 Roles
 Zuhanoor – Project Manager: repo creation, task assignment, GitHub Projects management
 Nimra kifayat – Documentation & Design Lead: documentation, diagrams, uploads
-Deliverables
-GitHub Repository Link + GitHub Projects Link
+ 
